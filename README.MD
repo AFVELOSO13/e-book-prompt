@@ -66,8 +66,7 @@ Utilize os prompts acima nas ferramentas sugeridas para gerar o material base e 
 
 <p>
    
-    <p>&nbsp&nbsp&nbspAlexandre F. F. Veloso<br>
-    &nbsp&nbsp&nbsp
+    <p>Alexandre F. F. Veloso<br>
     <a href="https://github.com/AFVELOSO13">
     GitHub</a>
     </p>
