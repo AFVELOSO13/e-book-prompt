@@ -64,13 +64,10 @@ Utilize os prompts acima nas ferramentas sugeridas para gerar o material base e 
 
 ## 👨‍💻 Expert
 
-<p>
-   
-    <p>Alexandre F. F. Veloso<br>
-    <a href="https://github.com/AFVELOSO13">
-    GitHub</a>
-    </p>
-</p>
+ 
+   Alexandre F. F. Veloso<br>
+   <a href="https://github.com/AFVELOSO13">GitHub</a>
+
 
 ---
 
